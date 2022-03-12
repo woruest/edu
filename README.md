@@ -142,7 +142,7 @@ Open-source is hard! If you happen to like this project and want me to keep goin
 
 ## License
 
-[MIT](LICENSE)
+
 
 
 
