@@ -139,12 +139,3 @@ Open-source is hard! If you happen to like this project and want me to keep goin
 ### Sponsors
 
 *Your name will appear here if you sponsor or donate 😀*
-
-## License
-
-
-
-
-
-
-
